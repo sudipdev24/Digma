@@ -1,0 +1,7 @@
+## Digma plugin settings Tue Jan 28 09:06:25 IST 2025
+apiToken=sandbox
+apiUrl=https://sandbox.api.prod.digma.systems
+jaegerQueryUrl=https://sandbox.jaeger.prod.digma.systems
+runtimeObservabilityBackendUrl=https://sandbox.collector-grpc.prod.digma.systems
+jaegerLinkMode=Embedded
+springBootObservabilityMode=OtelAgent
